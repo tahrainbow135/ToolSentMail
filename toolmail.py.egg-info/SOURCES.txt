@@ -1,0 +1,5 @@
+setup.py
+toolmail.py.egg-info/PKG-INFO
+toolmail.py.egg-info/SOURCES.txt
+toolmail.py.egg-info/dependency_links.txt
+toolmail.py.egg-info/top_level.txt
